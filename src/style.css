@@ -1,4 +1,12 @@
+@font-face {
+    font-family: 'Rough Battle';
+    src: url('Rough\ Battle.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
 .hello {
     color: red;
+    font-family: 'Rough Battle';
     background: url('./muneco-de-nieve.png');
 }
